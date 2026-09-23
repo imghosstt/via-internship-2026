@@ -1,9 +1,13 @@
 # Metasploitable2 Exploitation Report
 
 **Name:** Ishmael Adam Ahmed
+
 **Index Number:** 6126624
+
 **Date:** 21 September 2026
+
 **Target IP:** 192.168.56.102
+
 **Attacker OS / Tools:** Fedora 44, Metasploit Framework 6.5.5-dev, Nmap 7.92
 
 ---
